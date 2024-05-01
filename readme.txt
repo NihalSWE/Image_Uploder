@@ -1,0 +1,1 @@
+this project is basic django project. in this project user can upload images  and view the uploaded image by other users
